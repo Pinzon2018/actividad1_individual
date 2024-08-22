@@ -1,5 +1,11 @@
 Esta es la preparacion de la clase de git
 Esta clase es para 25 estudiantes
+Esta clase es para 5 estudiantes
+Nancy Ortega
+María Rodríguez
+Milena Roa
+Pablo Ruíz
+Carlos Suarez
 y para la especializacion
 desarollo de aplicaiones moviles.
 
